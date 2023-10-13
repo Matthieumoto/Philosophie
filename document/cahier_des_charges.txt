@@ -1,0 +1,24 @@
+Faire un site qui parle des philosophe sur l'année de terminal 
+
+Home :
+
+- Faire une page d'accueille avec une barre de recherche pour rechercher un philosophe en particulier ✅
+- Faire une frise chronologique de tout les philosophe ✅
+- Faire une section avec les 17 notions philo 
+- mettre des svg wave
+- liens vers la page photo ✅
+- Zoom photo ✅
+
+
+Page individuelle : 
+
+- Zoom sur la photo quand la souris passe devant 
+- Tout savoir sur lui
+- Se qu'il pensse 
+- Lier avcec quelle autre philosophe
+
+
+Page Notion : 
+
+- Page notion avec les grandes idéés 
+- Ajouter les philosophes liées au grande idée 
